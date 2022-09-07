@@ -5,5 +5,8 @@ function calculateBMI(weight, height) {
 }
 function getBMIMeaning(weight, height) {
   //code here
+
+  //BASTO
+  //BASTO2
 }
 module.exports = getBMIMeaning
