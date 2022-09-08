@@ -2,6 +2,7 @@ const { template } = require('@babel/core')
 function calculateBMI(weight, height) {
   //code here
   bmi = weight/(height*height)
+  return calculateBMI = bmi;
 }
 function getBMIMeaning(weight, height) {
   //code here
